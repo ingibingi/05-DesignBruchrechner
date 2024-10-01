@@ -1,3 +1,10 @@
+//Ingo Schlapschy
+//2aAPC
+//ITL-12
+//Lehrgang: 1
+//Datum: 2024-08-24
+//---
+
 import javax.swing.*;
 
 public class Bruchrechner {

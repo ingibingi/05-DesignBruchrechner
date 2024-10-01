@@ -1,4 +1,10 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+//Ingo Schlapschy
+//2aAPC
+//ITL-12
+//Lehrgang: 1
+//Datum: 2024-08-24
+//---
+// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
